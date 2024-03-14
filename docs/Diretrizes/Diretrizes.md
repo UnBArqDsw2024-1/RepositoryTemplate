@@ -15,7 +15,7 @@ Focos_1_2_3: Desing Sprint, Técnicas de Elicitação e Artefatos Independentes 
 
 Entrega Mínima: Design Sprint, evidenciando 1 técnica de elicitação e 1 artefato generalista (ESCOPO: 5W2H; Mapa Mental; Diagrama Causa-Efeito; Rich Picture; Léxico (ou Glossário) ou Planos de Risco, Custo e Tempo).
 
-Apresentação (em sala) explicando passo a passo a Design Sprint realizada, com: (i) rastro claro aos membros participantes (MOSTRAR QUADRO DE PARTICIPAÇÕES& COMMITS); (ii) justificativas & senso crítico sobre o trabalho realizado; (iii) breve apresentação de 1 técnica de elicitação e de 1 2 artefato elaborado, e (iv) comentários gerais sobre o trabalho em equipe. Tempo da Apresentação: +/- 10min. Recomendação: Apresentar diretamente via Wiki ou GitPages do Projeto. Baixar os conteúdos com antecedência, evitando problemas de internet no momento de exposição nas Dinâmicas de Avaliação.
+Apresentação (em sala) explicando passo a passo a Design Sprint realizada, com: (i) rastro claro aos membros participantes (MOSTRAR QUADRO DE PARTICIPAÇÕES& COMMITS); (ii) justificativas & senso crítico sobre o trabalho realizado; (iii) breve apresentação de 1 técnica de elicitação e de 1 artefato elaborado, e (iv) comentários gerais sobre o trabalho em equipe. Tempo da Apresentação: +/- 10min. Recomendação: Apresentar diretamente via Wiki ou GitPages do Projeto. Baixar os conteúdos com antecedência, evitando problemas de internet no momento de exposição nas Dinâmicas de Avaliação.
 
 A Wiki ou GitPages do Projeto deve conter um tópico dedicado ao Módulo Projeto Não Orientado a Abordagens Específicas, com Design Sprint, 1 técnica de elicitação e 1 artefato generalista, histórico de versões, referências, e demais detalhamentos gerados pela equipe nesse escopo.
 
@@ -85,7 +85,7 @@ Apresentar as referências consultadas, com links e/ou especificadas na notaçã
 
 TODOS os membros devem participar na elaboração do projeto correspondente ao seu grupo, evidenciando essas participações em cada entrega, nos respectivos QUADROS DE PARTICIPAÇÕES. Caso isso não ocorra, as menções serão diferenciadas entre os membros.
 
-Demais orientações constam disponíveis nas Diretrizes (vide Moodle) e/ou com a professora Milene.
+Demais orientações constam disponíveis nas Diretrizes (vide Aprender 3) e/ou com a professora Milene.
 
 
 ** Projetos - Período   2024.1
